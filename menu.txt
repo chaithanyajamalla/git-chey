@@ -1,4 +1,8 @@
 chey
+<<<<<<< HEAD
 rohan
 ansh
+=======
+tejaswi
+>>>>>>> e34eac2 (removed teja)
 teju
